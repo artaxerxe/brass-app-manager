@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+  <table-filter match-schema="public" match-name="book"/>
+  <table-filter match-schema="public" match-name="currency"/>
+  <table-filter match-schema="public" match-name="department"/>
+  <table-filter match-schema="public" match-name="instrument"/>
+  <table-filter match-schema="public" match-name="instrument_type"/>
+  <table-filter match-schema="public" match-name="payment"/>
+  <table-filter match-schema="public" match-name="person"/>
+  <table-filter match-schema="public" match-name="person_book"/>
+  <table-filter match-schema="public" match-name="person_department"/>
+  <table-filter match-schema="public" match-name="person_instrument"/>
+</hibernate-reverse-engineering>

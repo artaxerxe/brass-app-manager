@@ -25,5 +25,10 @@
 			<artifactId>hibernate-validator</artifactId>
 			<version>5.1.3.Final</version>
 		</dependency>
+		<dependency>
+			<groupId>org.postgresql</groupId>
+			<artifactId>postgresql</artifactId>
+			<version>9.3-1103-jdbc41</version>
+		</dependency>
 	</dependencies>
 </project>
